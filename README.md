@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sugith__" target="blank"><img src="https://img.shields.io/twitter/follow/sugith__?logo=twitter&style=for-the-badge" alt="sugith__" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sugith-k-a4b260259/](https://www.linkedin.com/in/sugith-k-a4b260259/)
 
