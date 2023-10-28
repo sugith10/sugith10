@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sugith-k-a4b260259/](https://www.linkedin.com/in/sugith10/)](https://www.linkedin.com/in/sugith-k-a4b260259/)
+- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/sugith10/)]
 
 - 📫 How to reach me **sugithkodappurath@gmail.com**
 
