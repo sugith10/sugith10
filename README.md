@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **sugithkodappurath@gmail.com**
 
-- ⚡ Fun fact **📱 Flutter addict: Crafting stunning apps with Dart & Flutter! 💙**
+- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter! 💙
 
 <div style="display: flex; align-items: center;">
   <h3 align="left">Connect with me:</h3>
