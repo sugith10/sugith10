@@ -12,6 +12,8 @@
 
 - 📱 Flutter addict: Crafting stunning apps with Dart & Flutter! 💙
 
+- 💬 Happy to answer your Android and Flutter queries
+
 <div style="display: flex; align-items: center;">
   <h3 align="left">Connect with me:</h3>
   <a href="https://linkedin.com/in/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugith10" height="30" width="40" /></a>
