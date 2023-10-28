@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
 
-- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/sugith10/
+- 📫 Reach me at https://www.linkedin.com/in/sugith10/
 
-- 📫 How to reach me **sugithkodappurath@gmail.com**
+- 📫 Reach me at **sugithkodappurath@gmail.com**
 
 - ⚡ Fun fact **📱 Flutter addict: Crafting stunning apps with Dart & Flutter! 💙**
 
