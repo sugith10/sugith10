@@ -49,16 +49,19 @@ A passionate software developer from India
   <!-- Add other languages and tools here -->
 </p>
 
-**GitHub Stats:**
-  
-![Sugith github stats](https://github-readme-stats.vercel.app/api?username=sugith10&count_private=true&show_icons=true&theme=synthwave)
-  
-**Top Languages:**
-  
-<a href="https://github.com/sugith10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugith10&layout=compact&theme=tokyonight"/>
-</a>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
 
-**GitHub Streak Stats:**
-  
-![Sugith GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sugith10)
+  <!-- GitHub Stats (without title) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sugith10&count_private=true&show_icons=true&theme=synthwave" alt="Sugith GitHub Stats" width="48%" height="200" style="object-fit: cover;"/>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+
+</div>
+
+
+
+
+
+
+
