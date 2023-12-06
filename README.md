@@ -15,13 +15,15 @@
 - 💬 Happy to answer your Android and Flutter queries
 
 <div style="display: flex; align-items: center;">
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
   <a href="https://linkedin.com/in/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugith10" height="30" width="40" /></a>
   <a href="https://twitter.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugith__" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sugith10" height="30" width="40" /></a>
   <a href="https://dev.to/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sugith__" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sugith__" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sugith__" height="30" width="40" /></a>
+    </p>
 </div>
 
 
