@@ -72,11 +72,13 @@
  
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="sugith10" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10&" alt="sugith10" />
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
+
 </div>
+
