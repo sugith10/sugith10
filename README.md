@@ -75,6 +75,9 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
+    ![Sugith github stats](https://github-readme-stats.vercel.app/api?username=sugith10&count_private=true&show_icons=true&theme=synthwave)<a href="[https://github.com/shabeersha](https://github.com/sugith10)"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugith10&layout=compact&theme=tokyonight"/></a>
+
+
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="sugith10" />
   </div>
   <div>
