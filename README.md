@@ -75,7 +75,7 @@
   </a>
 </p>
 
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 40px;"></div>
 
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
 
