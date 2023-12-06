@@ -14,7 +14,7 @@
 
 - 💬 Happy to answer your Android and Flutter queries
 
-<div style="display: flex; align-items: center;">
+
   <h3 align="center">Connect with me:</h3>
   <p align="center">
   <a href="https://linkedin.com/in/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugith10" height="30" width="40" /></a>
@@ -24,7 +24,7 @@
   <a href="https://www.hackerrank.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sugith__" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sugith__" height="30" width="40" /></a>
     </p>
-</div>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
