@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sugith K</h1>
+<h1 align="center">Hi 👋, I'm Sugith</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugith10" height="30" width="40" /></a>
   <a href="https://twitter.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugith__" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sugith10" height="30" width="40" /></a>
-  <a href="https://dev.to/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sugith__" height="30" width="40" /></a>
+<!--   <a href="https://dev.to/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sugith__" height="30" width="40" /></a> -->
   <a href="https://www.hackerrank.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sugith__" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sugith__" height="30" width="40" /></a>
     </p>
