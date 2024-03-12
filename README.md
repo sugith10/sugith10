@@ -75,7 +75,7 @@
   </a>
    </a>
   <a href="https://riverpod.dev" target="_blank" rel="noreferrer">
-    <img src="https://github.com/sugith10/images/blob/main/technologies/river_pod.png?raw=true" alt="Riverpod" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="Riverpod" width="40" height="40"/>
   </a>
 </p>
 
