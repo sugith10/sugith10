@@ -73,6 +73,10 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
+   </a>
+  <a href="https://riverpod.dev" target="_blank" rel="noreferrer">
+    <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://github.com/sugith10/images/blob/main/technologies/river_pod.png?raw=true)" alt="Riverpod" width="40" height="40"/>
+  </a>
 </p>
 
 <div style="margin-bottom: 40px;"></div>
