@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋 I'm Sugith K</h3>
 <h4 align="center">A passionate software developer from India</h4>
 
-<img align="center" alt="Coding" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
