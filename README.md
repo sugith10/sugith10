@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sugith</h1>
+<h1 align="center">Turning Ideas Into Apps</h1>
+<h3 align="center">Hi 👋, I'm Sugith K</h3>
 <h3 align="center">A passionate software developer from India</h3>
 
 <img align="center" alt="Coding" width="1000" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/22b22287602523.5dbd29081561d.gif">
