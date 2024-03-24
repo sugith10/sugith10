@@ -41,7 +41,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-   <a href="https://riverpod.dev" target="_blank" rel="noreferrer">
+   <a href="https://bloclibrary.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="Riverpod" width="40" height="40"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
