@@ -1,6 +1,7 @@
-<h1 align="center">Turning Ideas Into Apps</h1>
-<h3 align="center">Hi 👋 I'm Sugith K</h3>
-<h4 align="center">A passionate software developer from India</h4>
+<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+
+<h3 align="center"><samp>Hi 👋 I'm Sugith K</samp></h3>
+<h4 align="center"><samp>A passionate software developer from India</samp> </h4>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
@@ -8,17 +9,17 @@
 
 <div style="margin-bottom: 20px;"></div>
 
-- 📫 Reach me at https://www.linkedin.com/in/sugith10/
+<samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
 
-- 📫 Reach me at **sugithkodappurath@gmail.com**
+<samp>- 📫 Reach me at **sugithkodappurath@gmail.com**</samp>
 
-- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter! 💙
+<samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter! 💙</samp>
 
-- 💬 Happy to answer your Android and Flutter queries
+<samp>- 💬 Happy to answer your Android and Flutter queries</samp>
 
 <div style="margin-bottom: 20px;"></div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><samp>Connect</samp></h3>
 <p align="center">
 <a href="https://linkedin.com/in/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugith10" height="30" width="40" /></a>
   <a href="https://twitter.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugith__" height="30" width="40" /></a>
@@ -30,7 +31,7 @@
 
 <div style="margin-bottom: 20px;"></div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"><samp>Languages and Tools</samp></h3>
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
