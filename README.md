@@ -11,7 +11,7 @@
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
 
-<samp>- 📫 Reach me at **sugithkodappurath@gmail.com **</samp>
+<samp>- 📫 Reach me at sugithkodappurath@gmail.com</samp>
 
 <samp>- 📱 Flutter addict: Crafting stunning apps with Dart & Flutter 💙</samp>
 
