@@ -20,16 +20,32 @@
 
 <div style="margin-bottom: 20px;"></div>
 
+
 <h3 align="center"><samp>Connect</samp></h3>
-<p align="center">
-<a href="https://linkedin.com/in/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugith10" height="30" width="40" /></a>
-  <a href="https://twitter.com/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugith__" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sugith10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sugith10" height="30" width="40" /></a>
-<!--   <a href="https://dev.to/sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sugith__" height="30" width="40" /></a> -->
-  <a href="https://medium.com/@sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sugith__" height="30" width="40" /></a>
- <!-- <a href="https://www.hackerearth.com/@sugith__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sugith__" height="30" width="40" /></a>  -->    
-</p>
-<div style="margin-bottom: 40px;"></div>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+   <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
+      <br>Linkedin
+    </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
+      <br>X
+    </td>
+    <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
+      <br>Leetcode
+    </td>
+       <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
+      <br>Medium
+    </td>
+  </tr>
+</table>
+<br><br>
+</div>
+
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -66,9 +82,9 @@
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
       <br>Kotlin
     </td>
-   <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
+      <br>Figma
     </td>
   </tr>
   <tr>
@@ -88,10 +104,6 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="45" height="45" />
-      <br>C
-       </td>
            <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
@@ -104,7 +116,10 @@
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>My SQL
     </td>
-        
+           <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
        
   </tr>
  <tr>
@@ -128,7 +143,10 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-             
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
@@ -137,18 +155,11 @@
         <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="firebase" />
       <br>Powershell
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
-      <br>Figma
-    </td>
+
  </tr>
 </table>
 <br><br>
-
-
 </div>
-
-
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
