@@ -107,13 +107,13 @@
         <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
       <br>BLoC
     </td>
+   <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
+      <br>Riverpod
+    </td>
       <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
       <br>SQ Lite
-    </td>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
@@ -125,20 +125,9 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
-      <br>C
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="xd" />
-      <br>Xd
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -152,21 +141,34 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-        <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="100">
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="45" height="45" />
+      <br>C
+       </td>
+           <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
-      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center"  width="100">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+      <br>My SQL
+    </td>
+        
+       
+  </tr>
+ <tr>
+       <td align="center" width="100"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
+      <br>Github
+    </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
       <br>Android Studio
@@ -185,11 +187,11 @@
       <br>Linux
     </td>
      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="firebase" />
+      <br>Powershell
     </td>
      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
       <br>Figma
     </td>
  </tr>
