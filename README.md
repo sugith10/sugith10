@@ -143,19 +143,18 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
-    </td>          
-   <td align="center" width="100">
+      <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
     </td>
      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="firebase" />
-      <br>Powershell
+        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
+      <br>Apple
     </td>
-
+     <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
+      <br>Windows
+    </td>          
  </tr>
 </table>
 <br><br>
