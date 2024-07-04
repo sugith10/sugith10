@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
 
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 200px;"></div>
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/sugith10/</samp>
 
@@ -18,7 +18,7 @@
 <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp>
 
 
-<div style="margin-bottom: 20px;"></div>
+
 
 
 <h3 align="center"><samp>Connect</samp></h3>
