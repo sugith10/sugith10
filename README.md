@@ -1,7 +1,7 @@
 <h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
 
 <h2 align="center"><samp>Hi 👋 I'm Sugith K</samp></h2>
-<h3 align="center"><samp>A passionate software developer from India</samp> </h3>
+<h3 align="center"><samp>A software developer from India</samp> </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
