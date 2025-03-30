@@ -148,7 +148,8 @@
 
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sugith10&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
 
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=sugith10&hide_border=true&background=FFFFFF00&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=sugith10&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA">
+
 
   <br>
   <br>
