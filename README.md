@@ -5,7 +5,9 @@
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
+<!-- Badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+
 
 <div style="margin-bottom: 200px;"></div>
 
@@ -17,36 +19,15 @@
 
 <samp>- ⌨️ Fun fact: I spend approximately 14 hours coding every day! 💻</samp>
 
+<!-- Qoute -->
+<div style="margin-bottom: 60px;"></div>
+<h3 ><samp>✍️Random Dev Quote</samp></h3>
+    <div>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+    </div>
 
 
-
-
-<h3 align="center"><samp>Connect</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-   <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="icon" width="45" height="45" />
-      <br>Linkedin
-    </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
-      <br>X
-    </td>
-    <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
-      <br>Leetcode
-    </td>
-       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="icon" width="45" height="45" />
-      <br>Medium
-    </td>
-  </tr>
-</table>
-<br><br>
-</div>
-
-
+<!-- Languages -->
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -157,19 +138,21 @@
     </td>          
  </tr>
 </table>
-<br><br>
 </div>
+
+<br>
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugith10&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sugith10" alt="Sugith GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
-</div>
+<p align="center">
+ <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sugith10&show_icons=true&count_private=true&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe">
 
-<div style="margin-bottom: 60px;"></div>
-<h3 align="center"><samp>✍️Random Dev Quote</samp></h3>
-    <div>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
-    </div>
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sugith10&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff">
+
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=sugith10&hide_border=true&background=FFFFFF00&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff">
+
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/sugith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="sugith-buymeacoffe" /></a>
+</p>
+
+
